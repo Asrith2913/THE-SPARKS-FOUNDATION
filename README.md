@@ -1,2 +1,2 @@
 # THE-SPARKS-FOUNDATION
-A new Flutter application.
+Internship Task by Grip Sparks of April 2021 batch.
